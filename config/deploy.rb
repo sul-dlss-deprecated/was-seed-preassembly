@@ -1,7 +1,7 @@
 # config valid only for Capistrano 3.1
 lock '3.2.1'
 
-set :rvm_ruby_string, 'ruby-1.9.3-p484'
+set :rvm_ruby_string, 'ruby-2.2.2'
 
 set :application, 'was-seed-preassembly'
 set :repo_url, 'https://github.com/sul-dlss/was-seed-preassembly.git'
